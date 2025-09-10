@@ -5,6 +5,9 @@ public class Doctor {
 	public static void main(String[] args) {
 		
 		System.out.println("Doc Name");
+
+		System.out.println("Doc MobNo");
 	}
 
 }
+
